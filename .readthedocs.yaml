@@ -27,3 +27,6 @@ sphinx:
 python:
    install:
    - requirements: requirements.txt
+
+env:
+  OPENAI_API_KEY: 0
